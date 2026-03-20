@@ -49,21 +49,63 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 ## 🚀 Featured Projects
 
-### 🔹 CI/CD Pipeline Automation
-- Built automated pipelines using Jenkins & GitHub Actions  
-- Reduced deployment time and improved delivery consistency  
-
-### 🔹 Cloud Infrastructure as Code
-- Provisioned infrastructure using Terraform & CloudFormation  
-- Designed reusable and scalable infrastructure modules  
-
-### 🔹 Kubernetes Deployment System
-- Deployed containerized apps on EKS/AKS  
-- Ensured high availability and scalability  
-
 ### 🔹 AI Business Solutions (TKH)
-- Built AI-powered apps using Python  
-- Integrated APIs and deployed to cloud environments  
+Developed AI-driven applications focused on solving real-world business problems through automation and intelligent systems.
+
+- 🧠 Built applications using Python and AI concepts  
+- 🔗 Integrated APIs and external services  
+- ☁️ Deployed solutions in cloud-based environments  
+
+🔗 [GitHub Repo](https://github.com/AjB101/java__.git)  
+🌐 Live Demo: Coming Soon  
+
+---
+
+### 🔹 AI-Powered DevOps Monitoring Pipeline
+Developed a lightweight AI-integrated DevOps pipeline to simulate intelligent monitoring and anomaly detection.
+
+- 🤖 Built monitoring logic using Python  
+- ⚡ Integrated with CI/CD workflow concepts  
+- 📊 Improved system observability and reliability  
+
+🔗 [GitHub Repo](https://github.com/AjB101/ai-devops-pipeline.git)  
+🌐 Live Demo: Coming Soon  
+
+---
+
+### 🔹 Kubernetes Deployment on AWS (EKS)
+Deployed containerized applications to a Kubernetes cluster, demonstrating scalable and resilient cloud-native architecture.
+
+- ☸️ Managed workloads on AWS EKS  
+- 📦 Containerized applications using Docker  
+- 📈 Ensured high availability and scalability  
+
+🔗 [GitHub Repo](https://github.com/AjB101/deployment-to-EKS-cluster.git)  
+🌐 Live Demo: Coming Soon  
+
+---
+
+### 🔹 Dockerized Cloud Application Deployment
+Built and deployed containerized applications using Docker, simulating modern cloud-native deployment workflows.
+
+- 🐳 Containerized applications using Docker  
+- ☁️ Integrated with cloud deployment concepts  
+- ⚙️ Improved portability and consistency across environments  
+
+🔗 [GitHub Repo](https://github.com/AjB101/docker_cloud_convo.git)  
+🌐 Live Demo: Coming Soon  
+
+---
+
+### 🔹 End-to-End DevOps Pipeline (Jenkins + Terraform + Tomcat)
+Designed and implemented a complete CI/CD pipeline to automate the build and deployment of a Java web application on AWS.
+
+- ⚙️ Provisioned infrastructure using Terraform (VPC, EC2, networking)  
+- 🔄 Built CI/CD pipelines with Jenkins  
+- 📦 Packaged applications with Maven and deployed to Tomcat  
+
+🔗 [GitHub Repo](https://github.com/AjB101/sonarqube-nexusRepo.git)  
+🌐 Live Demo: Coming Soon 
 
 ---
 
