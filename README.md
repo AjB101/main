@@ -1,15 +1,14 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bill Chan | Quant Research & Algo Trading
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Precious Ajayi | DevOps & AI Engineer
 
 <div align="center">
 
-**Systematic Trading | Web3 Infrastructure | Market Microstructure**
+**Cloud Engineering | DevOps Automation | AI Business Solutions**
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Quant+Developer+%7C+Algo+Trader+%7C+Web3+PM;MSc+Computing+in+Management+%26+Finance;Building+Systematic+Trading+Systems+%26+DeFi+Analytics" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Engineer+%7C+AI+Builder;AWS+%7C+Kubernetes+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+%26+AI+Systems" height="40"/>
 
-[![Email](https://img.shields.io/badge/Email-billpwchan@hotmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:billpwchan@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-billpwchan.com-000000?style=flat-square&logo=safari)](https://www.billpwchan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-billpwchan-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/billpwchan1998/)
-[![Instagram](https://img.shields.io/badge/Instagram-@billpwchan-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/billpwchan/)
+[![Email](https://img.shields.io/badge/Email-ajayiprecious101@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:ajayiprecious101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AjB101-000000?style=flat-square&logo=github)](https://github.com/AjB101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-precious--ajayi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/precious-ajayi/)
 
 </div>
 
@@ -17,100 +16,78 @@
 
 ## 🎯 Professional Summary
 
-Quantitative developer and algorithmic trading specialist with expertise in systematic trading systems, derivatives pricing, and onchain data analytics. Currently focused on building high-performance trading infrastructure and sustainable Web3 protocols. Background in computational finance with strong emphasis on market microstructure, NLP for sentiment analysis, and real-time data engineering pipelines.
+DevOps & Cloud Engineer with hands-on experience in building scalable infrastructure, automating deployments, and managing containerized applications. Currently expanding into AI-driven business solutions, combining cloud engineering with intelligent systems to solve real-world problems.
 
-**Current Focus:** Crypto derivatives trading | DeFi analytics | Backtesting frameworks | Market data infrastructure
+Focused on delivering reliable, efficient, and automated systems that improve deployment speed, system performance, and operational efficiency.
+
+**Current Focus:** DevOps Automation | Cloud Infrastructure | AI Integration | CI/CD Pipelines
 
 ---
 
 ## 🛠️ Technical Stack
 
-**Quant & Trading**
-`Python` `NumPy` `Pandas` `TA-Lib` `Backtrader` `QuantLib` `Market Data APIs`
+**Cloud & Infrastructure**  
+`AWS` `Azure` `Terraform` `CloudFormation`
 
-**Web3 & Blockchain**
-`Solidity` `EVM` `DeFi Protocols` `Onchain Analytics` `Web3.py` `Ethers.js`
+**DevOps & CI/CD**  
+`Jenkins` `GitHub Actions` `GitLab CI/CD` `Argo CD`
 
-**Infrastructure & DevOps**
-`FastAPI` `Docker` `GitHub Actions` `CI/CD` `Data Pipelines` `Time-Series DB`
+**Containers & Orchestration**  
+`Docker` `Kubernetes (EKS/AKS)`
 
-**Data & Analytics**
-`NLP` `Sentiment Analysis` `Time-Series Analysis` `Statistical Modeling` `Data Visualization`
+**Programming & Scripting**  
+`Python` `Bash`
 
----
+**Monitoring & Observability**  
+`Prometheus` `Grafana` `CloudWatch`
 
-## 📊 Dynamic Metrics Dashboard
-
-<div align="center">
-
-| **Core Metrics** | **Activity & Insights** |
-|:---:|:---:|
-| <img src="asset/base.svg" width="400"/> | <img src="asset/activity.svg" width="400"/> |
-| <img src="asset/languages.svg" width="400"/> | <img src="asset/isocalendar.svg" width="400"/> |
-| <img src="asset/habits.svg" width="400"/> | <img src="asset/achievements.svg" width="400"/> |
-| <img src="asset/projects.svg" width="400"/> | <img src="asset/stock.svg" width="400"/> |
-| <img src="asset/stargazers.svg" width="400"/> | <img src="asset/reactions.svg" width="400"/> |
-
-</div>
+**Security & Networking**  
+`IAM` `RBAC` `VPC`
 
 ---
 
 ## 🚀 Featured Projects
 
-**Trading Systems & Backtesting**
-- Systematic trading frameworks with multi-asset support
-- Real-time market data processing and signal generation
-- Performance attribution and risk analytics
+**CI/CD Pipeline Automation**
+- Designed and implemented automated CI/CD pipelines using Jenkins and Git-based workflows  
+- Improved deployment efficiency and reduced manual intervention  
 
-**Web3 & DeFi Analytics**
-- Onchain data aggregation and visualization
-- Protocol analytics and yield optimization tools
-- Sustainable Web3 infrastructure development
+**Cloud Infrastructure as Code**
+- Provisioned scalable infrastructure using Terraform and CloudFormation  
+- Built reusable modules for consistent deployments  
 
-**Data Engineering**
-- High-frequency data pipelines for market microstructure analysis
-- NLP-powered sentiment analysis for crypto markets
-- Time-series databases and real-time dashboards
+**Containerized Applications**
+- Deployed and managed applications using Docker and Kubernetes  
+- Ensured high availability and scalability in cloud environments  
+
+**AI Business Solutions (TKH)**
+- Developed AI-powered applications using Python  
+- Integrated APIs and deployed solutions on cloud platforms  
 
 ---
 
-## ⚙️ Automated Updates
+## ⚙️ DevOps Philosophy
 
-This README is automatically updated by GitHub Actions via [`.github/workflows/main.yml`](.github/workflows/main.yml).
+- Automate everything possible ⚙️  
+- Build scalable and resilient systems ☁️  
+- Continuously learn and improve 🚀  
+- Bridge DevOps with AI for smarter infrastructure 🤖  
 
-**Schedule**
-- Daily: `01:59 UTC`
-- On demand: `workflow_dispatch` (manual run from Actions tab)
+---
 
-**Required Secrets**
-- `METRICS_TOKEN`: recommended to use a classic PAT for best compatibility with `lowlighter/metrics`
-- `STOCK_TOKEN` (optional): required only for `asset/stock.svg`
+## 📈 What I'm Working On
 
-**Recommended METRICS_TOKEN scopes (classic PAT)**
-- `public_repo`
-- `read:user`
-- `read:org`
-- `repo` (needed if you want broader/private-repo data; otherwise some panels may show `Insufficient token scopes`)
-
-Metrics include:
-- **GitHub Activity:** Commits, PRs, issues, and repository statistics
-- **Code Analytics:** Language distribution, coding habits, and contribution patterns
-- **Market Data:** Stock prices and trading-related metrics
-- **Social Metrics:** Stargazers, reactions, and community engagement
-
-**Quick Troubleshooting**
-- `Insufficient token scopes` on `base.svg`: usually caused by token permissions; regenerate `METRICS_TOKEN` with scopes above.
-- `Unexpected error` on specific panels: run workflow manually once after token refresh; if still failing, disable that panel temporarily and re-enable incrementally.
-- Missing `stock.svg`: check `STOCK_TOKEN` exists and is valid.
-
-*Last updated: Auto-refreshed daily at 01:59 UTC*
+- Enhancing CI/CD pipelines with modern DevOps tools  
+- Exploring AI integration into cloud workflows  
+- Preparing for AWS Solutions Architect Certification  
+- Building real-world DevOps + AI projects  
 
 ---
 
 <div align="center">
 
-**Open to opportunities in Quantitative Trading | Fintech | Web3 Infrastructure**
+**Open to opportunities in DevOps | Cloud Engineering | AI Infrastructure**
 
-[![GitHub](https://img.shields.io/github/followers/billpwchan?label=GitHub&style=social)](https://github.com/billpwchan)
+[![GitHub](https://img.shields.io/github/followers/AjB101?label=GitHub&style=social)](https://github.com/AjB101)
 
 </div>
