@@ -49,8 +49,8 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Business Solutions (TKH)
-Developed AI-driven applications focused on solving real-world business problems through automation and intelligent systems.
+### 🔹 End-to-End DevOps Pipeline (Jenkins + Terraform + Tomcat)
+Designed and implemented a complete CI/CD pipeline to automate the build and deployment of a Java web application on AWS.
 
 - 🧠 Built applications using Python and AI concepts  
 - 🔗 Integrated APIs and external services  
@@ -97,17 +97,6 @@ Built and deployed containerized applications using Docker, simulating modern cl
 
 ---
 
-### 🔹 End-to-End DevOps Pipeline (Jenkins + Terraform + Tomcat)
-Designed and implemented a complete CI/CD pipeline to automate the build and deployment of a Java web application on AWS.
-
-- ⚙️ Provisioned infrastructure using Terraform (VPC, EC2, networking)  
-- 🔄 Built CI/CD pipelines with Jenkins  
-- 📦 Packaged applications with Maven and deployed to Tomcat  
-
-🔗 [GitHub Repo](https://github.com/AjB101/sonarqube-nexusRepo.git)  
-🌐 Live Demo: Coming Soon 
-
----
 
 ## 📊 GitHub Stats
 
