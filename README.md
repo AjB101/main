@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Cloud Engineering | DevOps Automation | AI Business Solutions**
+**Cloud Engineering | DevOps Automation | AI Infrastructure**
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Engineer+%7C+AI+Builder;AWS+%7C+Kubernetes+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+%26+AI+Systems" height="40"/>
 
@@ -14,80 +14,79 @@
 
 ---
 
-## 🎯 Professional Summary
+## 🎯 About Me
 
-DevOps & Cloud Engineer with hands-on experience in building scalable infrastructure, automating deployments, and managing containerized applications. Currently expanding into AI-driven business solutions, combining cloud engineering with intelligent systems to solve real-world problems.
+DevOps & Cloud Engineer with hands-on experience designing scalable infrastructure, automating deployments, and managing containerized applications.
 
-Focused on delivering reliable, efficient, and automated systems that improve deployment speed, system performance, and operational efficiency.
+Currently expanding into **AI-driven business solutions**, combining cloud engineering with intelligent systems to solve real-world problems.
 
-**Current Focus:** DevOps Automation | Cloud Infrastructure | AI Integration | CI/CD Pipelines
+💡 I focus on building systems that are:
+- Scalable ☁️  
+- Automated ⚙️  
+- Reliable 🚀  
+- Intelligent 🤖  
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**  
+**☁️ Cloud & Infrastructure**  
 `AWS` `Azure` `Terraform` `CloudFormation`
 
-**DevOps & CI/CD**  
+**⚙️ DevOps & CI/CD**  
 `Jenkins` `GitHub Actions` `GitLab CI/CD` `Argo CD`
 
-**Containers & Orchestration**  
+**📦 Containers & Orchestration**  
 `Docker` `Kubernetes (EKS/AKS)`
 
-**Programming & Scripting**  
+**💻 Programming**  
 `Python` `Bash`
 
-**Monitoring & Observability**  
+**📊 Monitoring**  
 `Prometheus` `Grafana` `CloudWatch`
-
-**Security & Networking**  
-`IAM` `RBAC` `VPC`
 
 ---
 
 ## 🚀 Featured Projects
 
-**CI/CD Pipeline Automation**
-- Designed and implemented automated CI/CD pipelines using Jenkins and Git-based workflows  
-- Improved deployment efficiency and reduced manual intervention  
+### 🔹 CI/CD Pipeline Automation
+- Built automated pipelines using Jenkins & GitHub Actions  
+- Reduced deployment time and improved delivery consistency  
 
-**Cloud Infrastructure as Code**
-- Provisioned scalable infrastructure using Terraform and CloudFormation  
-- Built reusable modules for consistent deployments  
+### 🔹 Cloud Infrastructure as Code
+- Provisioned infrastructure using Terraform & CloudFormation  
+- Designed reusable and scalable infrastructure modules  
 
-**Containerized Applications**
-- Deployed and managed applications using Docker and Kubernetes  
-- Ensured high availability and scalability in cloud environments  
+### 🔹 Kubernetes Deployment System
+- Deployed containerized apps on EKS/AKS  
+- Ensured high availability and scalability  
 
-**AI Business Solutions (TKH)**
-- Developed AI-powered applications using Python  
-- Integrated APIs and deployed solutions on cloud platforms  
-
----
-
-## ⚙️ DevOps Philosophy
-
-- Automate everything possible ⚙️  
-- Build scalable and resilient systems ☁️  
-- Continuously learn and improve 🚀  
-- Bridge DevOps with AI for smarter infrastructure 🤖  
+### 🔹 AI Business Solutions (TKH)
+- Built AI-powered apps using Python  
+- Integrated APIs and deployed to cloud environments  
 
 ---
 
-## 📈 What I'm Working On
-
-- Enhancing CI/CD pipelines with modern DevOps tools  
-- Exploring AI integration into cloud workflows  
-- Preparing for AWS Solutions Architect Certification  
-- Building real-world DevOps + AI projects  
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Open to opportunities in DevOps | Cloud Engineering | AI Infrastructure**
-
-[![GitHub](https://img.shields.io/github/followers/AjB101?label=GitHub&style=social)](https://github.com/AjB101)
+<img src="https://github-readme-stats.vercel.app/api?username=AjB101&show_icons=true&theme=tokyonight" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjB101&theme=tokyonight" width="400"/>
 
 </div>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Kubernetes & system design  
+- AI + DevOps integration (MLOps direction)  
+- AWS Solutions Architect Certification  
+
+---
+
+## ⚡ DevOps Mindset
+
+```bash
+Automate → Scale → Monitor → Improve → Repeat
