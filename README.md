@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-DevOps & Cloud Engineer with hands-on experience designing scalable infrastructure, automating deployments, and managing containerized applications.
+A certified DevOps & Cloud Engineer with hands-on experience designing scalable infrastructure, automating deployments, and managing containerized applications.
 
 Currently expanding into **AI-driven business solutions**, combining cloud engineering with intelligent systems to solve real-world problems.
 
