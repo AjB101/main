@@ -49,6 +49,20 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 ## 🚀 Featured Projects
 
+### 🔹 HealthTrack Clinic Analytics Platform
+
+Built an end-to-end healthcare operations analytics system to monitor appointment utilization, scheduling efficiency, and patient attendance trends.
+
+🏥 Analyzed 300+ clinic appointments across 60 operational days
+📊 Built KPI dashboards using Streamlit and Python analytics workflows
+📉 Identified high-risk no-show time slots and scheduling inefficiencies
+🗄️ Engineered relational healthcare datasets using SQLAlchemy and SQLite
+📈 Generated operational insights supporting clinic resource optimization
+
+🔗 [GitHub Repo](https://github.com/AjB101/healthtrack-clinic-analytics.git)  
+🌐 Live Demo: Coming Soon   
+
+
 ### 🔹 End-to-End DevOps Pipeline (Jenkins + Terraform + Tomcat)
 Designed and implemented a complete CI/CD pipeline to automate the build and deployment of a Java web application on AWS.
 
