@@ -61,13 +61,17 @@ Built during the Bloomberg × The Knowledge House Hackathon, Breezi is an AI-pow
 - Built intent detection for weather, AQI, clothing, and activity queries.
 - Developed weather, air quality, clothing, and activity recommendation modules.
 - Integrated OpenWeather, AirNow, and Gemini APIs.
-- Implemented a rule-based fallback system when the Gemini API quota was exceeded, ensuring the chatbot continued to respond reliably.
+- Implemented a rule-based fallback system to maintain chatbot functionality when the Gemini API quota was exceeded, ensuring reliable responses even when the AI service was unavailable.
 
 **Tech Stack**
 
 `Next.js` • `TypeScript` • `OpenWeather API` • `AirNow API` • `Gemini AI` • `Git` • `GitHub`
   
-🔗 [GitHub Repo](https://github.com/snalepa11/Breezi.git)
+### 🔗 Repository
+
+[View on GitHub](https://github.com/snalepa11/Breezi)
+
+This project strengthened my experience in AI application development, API integration, collaborative software engineering, and building reliable systems under hackathon time constraints.
 
 
 ### 🔹 HealthTrack Clinic Analytics Platform
