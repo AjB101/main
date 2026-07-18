@@ -49,6 +49,27 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 ## 🚀 Featured Projects
 
+## 🌤️ Breezi – AI Weather & Air Quality Assistant
+
+**Bloomberg × The Knowledge House Hackathon**
+
+Collaborated with a cross-functional team to build an AI-powered weather and air quality assistant that combines real-time weather, EPA air quality data, and AI-generated recommendations.
+
+### My Contributions
+
+- Designed and implemented the chatbot architecture.
+- Built intent detection for weather, AQI, clothing, and activity queries.
+- Developed weather, air quality, clothing, and activity recommendation modules.
+- Integrated OpenWeather, AirNow, and Gemini APIs.
+- Implemented a rule-based fallback system when the Gemini API quota was exceeded, ensuring the chatbot continued to respond reliably.
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `OpenWeather API` • `AirNow API` • `Gemini AI` • `Git` • `GitHub`
+  
+🔗 [GitHub Repo](https://github.com/snalepa11/Breezi.git)
+
+
 ### 🔹 HealthTrack Clinic Analytics Platform
 
 Built an end-to-end healthcare operations analytics system to monitor appointment utilization, scheduling efficiency, and patient attendance trends.
