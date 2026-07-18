@@ -49,7 +49,7 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 ## 🚀 Featured Projects
 
-## 🌤️ Breezi – AI Weather & Air Quality Assistant
+## 🌤️ Breezi – AI Weather & Air Quality Assistant 
 
 **Bloomberg × The Knowledge House Hackathon**
 
