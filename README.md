@@ -53,7 +53,7 @@ Currently expanding into **AI-driven business solutions**, combining cloud engin
 
 **Bloomberg × The Knowledge House Hackathon**
 
-Collaborated with a cross-functional team to build an AI-powered weather and air quality assistant that combines real-time weather, EPA air quality data, and AI-generated recommendations.
+Built during the Bloomberg × The Knowledge House Hackathon, Breezi is an AI-powered weather and air quality assistant that combines real-time weather, EPA air quality data, and AI-powered recommendations to help users make informed outdoor decisions..
 
 ### My Contributions
 
